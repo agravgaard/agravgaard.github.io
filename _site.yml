@@ -19,10 +19,13 @@ navbar:
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
+      href: mailto:andreasga22+github@gmail.com                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/agravgaard       # CHANGE HERE 
+    - text: "Gitlab"
+      icon: fa-gitlab
+      href: https://gitlab.com/agravgaard
 output:
   html_document:
     theme: cosmo
